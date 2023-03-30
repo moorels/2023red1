@@ -4,7 +4,7 @@ const HomePage = () => {
   return (
     <>
       <MetaTags title="Home" description="Home page" />
-      Home Page test12345
+      Home Page test12345w
       <div className="group rounded-xl border border-gray-100 bg-white p-6 shadow-2xl shadow-gray-600/10 dark:border-gray-700 dark:bg-gray-800 dark:shadow-none sm:p-8">
         <div className="relative overflow-hidden rounded-xl">
           <img
